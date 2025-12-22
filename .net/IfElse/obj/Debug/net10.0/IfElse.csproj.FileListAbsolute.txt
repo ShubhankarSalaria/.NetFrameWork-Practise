@@ -1,0 +1,14 @@
+d:\capgemini\lpuEx\IfElse\bin\Debug\net10.0\IfElse.exe
+d:\capgemini\lpuEx\IfElse\bin\Debug\net10.0\IfElse.deps.json
+d:\capgemini\lpuEx\IfElse\bin\Debug\net10.0\IfElse.runtimeconfig.json
+d:\capgemini\lpuEx\IfElse\bin\Debug\net10.0\IfElse.dll
+d:\capgemini\lpuEx\IfElse\bin\Debug\net10.0\IfElse.pdb
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.AssemblyInfo.cs
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.dll
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\refint\IfElse.dll
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.pdb
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\IfElse.genruntimeconfig.cache
+d:\capgemini\lpuEx\IfElse\obj\Debug\net10.0\ref\IfElse.dll
