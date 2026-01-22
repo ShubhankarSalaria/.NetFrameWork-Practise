@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day_10\staticlass\bin\Debug\net10.0\staticlass.exe
+d:\capgemini\lpuEx\.net\day_10\staticlass\bin\Debug\net10.0\staticlass.deps.json
+d:\capgemini\lpuEx\.net\day_10\staticlass\bin\Debug\net10.0\staticlass.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day_10\staticlass\bin\Debug\net10.0\staticlass.dll
+d:\capgemini\lpuEx\.net\day_10\staticlass\bin\Debug\net10.0\staticlass.pdb
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.sourcelink.json
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.dll
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\refint\staticlass.dll
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.pdb
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\staticlass.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day_10\staticlass\obj\Debug\net10.0\ref\staticlass.dll

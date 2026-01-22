@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.sourcelink.json
+d:\capgemini\lpuEx\.net\day_4\setget\bin\Debug\net10.0\setget.exe
+d:\capgemini\lpuEx\.net\day_4\setget\bin\Debug\net10.0\setget.deps.json
+d:\capgemini\lpuEx\.net\day_4\setget\bin\Debug\net10.0\setget.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day_4\setget\bin\Debug\net10.0\setget.dll
+d:\capgemini\lpuEx\.net\day_4\setget\bin\Debug\net10.0\setget.pdb
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.dll
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\refint\setget.dll
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.pdb
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\setget.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day_4\setget\obj\Debug\net10.0\ref\setget.dll

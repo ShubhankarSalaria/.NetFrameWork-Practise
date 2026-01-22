@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.sourcelink.json
+d:\capgemini\lpuEx\.net\day_7\flip_string\bin\Debug\net10.0\flip_string.exe
+d:\capgemini\lpuEx\.net\day_7\flip_string\bin\Debug\net10.0\flip_string.deps.json
+d:\capgemini\lpuEx\.net\day_7\flip_string\bin\Debug\net10.0\flip_string.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day_7\flip_string\bin\Debug\net10.0\flip_string.dll
+d:\capgemini\lpuEx\.net\day_7\flip_string\bin\Debug\net10.0\flip_string.pdb
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.dll
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\refint\flip_string.dll
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.pdb
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\flip_string.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day_7\flip_string\obj\Debug\net10.0\ref\flip_string.dll

@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.sourcelink.json
+d:\capgemini\lpuEx\.net\day_10\partialClass\bin\Debug\net10.0\partialClass.exe
+d:\capgemini\lpuEx\.net\day_10\partialClass\bin\Debug\net10.0\partialClass.deps.json
+d:\capgemini\lpuEx\.net\day_10\partialClass\bin\Debug\net10.0\partialClass.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day_10\partialClass\bin\Debug\net10.0\partialClass.dll
+d:\capgemini\lpuEx\.net\day_10\partialClass\bin\Debug\net10.0\partialClass.pdb
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.dll
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\refint\partialClass.dll
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.pdb
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\partialClass.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day_10\partialClass\obj\Debug\net10.0\ref\partialClass.dll

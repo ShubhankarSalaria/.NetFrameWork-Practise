@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.sourcelink.json
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\bin\Debug\net10.0\MovieStock.exe
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\bin\Debug\net10.0\MovieStock.deps.json
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\bin\Debug\net10.0\MovieStock.runtimeconfig.json
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\bin\Debug\net10.0\MovieStock.dll
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\bin\Debug\net10.0\MovieStock.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.dll
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\refint\MovieStock.dll
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\MovieStock.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\PracticeM1\MovieStock\obj\Debug\net10.0\ref\MovieStock.dll

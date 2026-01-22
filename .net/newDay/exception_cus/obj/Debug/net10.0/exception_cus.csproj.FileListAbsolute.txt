@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.sourcelink.json
+d:\capgemini\lpuEx\.net\newDay\exception_cus\bin\Debug\net10.0\exception_cus.exe
+d:\capgemini\lpuEx\.net\newDay\exception_cus\bin\Debug\net10.0\exception_cus.deps.json
+d:\capgemini\lpuEx\.net\newDay\exception_cus\bin\Debug\net10.0\exception_cus.runtimeconfig.json
+d:\capgemini\lpuEx\.net\newDay\exception_cus\bin\Debug\net10.0\exception_cus.dll
+d:\capgemini\lpuEx\.net\newDay\exception_cus\bin\Debug\net10.0\exception_cus.pdb
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.dll
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\refint\exception_cus.dll
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.pdb
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\exception_cus.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\newDay\exception_cus\obj\Debug\net10.0\ref\exception_cus.dll

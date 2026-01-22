@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.sourcelink.json
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\bin\Debug\net10.0\Ecomerce_App.exe
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\bin\Debug\net10.0\Ecomerce_App.deps.json
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\bin\Debug\net10.0\Ecomerce_App.runtimeconfig.json
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\bin\Debug\net10.0\Ecomerce_App.dll
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\bin\Debug\net10.0\Ecomerce_App.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.dll
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\refint\Ecomerce_App.dll
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\Ecomerce_App.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\PracticeM1\Ecomerce_App\obj\Debug\net10.0\ref\Ecomerce_App.dll

@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.sourcelink.json
+d:\capgemini\lpuEx\.net\day20\attributeObs\bin\Debug\net10.0\attributeObs.exe
+d:\capgemini\lpuEx\.net\day20\attributeObs\bin\Debug\net10.0\attributeObs.deps.json
+d:\capgemini\lpuEx\.net\day20\attributeObs\bin\Debug\net10.0\attributeObs.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day20\attributeObs\bin\Debug\net10.0\attributeObs.dll
+d:\capgemini\lpuEx\.net\day20\attributeObs\bin\Debug\net10.0\attributeObs.pdb
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.dll
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\refint\attributeObs.dll
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.pdb
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\attributeObs.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day20\attributeObs\obj\Debug\net10.0\ref\attributeObs.dll

@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day_10\generics\bin\Debug\net10.0\generics.exe
+d:\capgemini\lpuEx\.net\day_10\generics\bin\Debug\net10.0\generics.deps.json
+d:\capgemini\lpuEx\.net\day_10\generics\bin\Debug\net10.0\generics.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day_10\generics\bin\Debug\net10.0\generics.dll
+d:\capgemini\lpuEx\.net\day_10\generics\bin\Debug\net10.0\generics.pdb
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.sourcelink.json
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.dll
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\refint\generics.dll
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.pdb
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\generics.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day_10\generics\obj\Debug\net10.0\ref\generics.dll

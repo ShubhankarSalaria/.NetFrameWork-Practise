@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.sourcelink.json
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\bin\Debug\net10.0\YogaMeditation.exe
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\bin\Debug\net10.0\YogaMeditation.deps.json
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\bin\Debug\net10.0\YogaMeditation.runtimeconfig.json
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\bin\Debug\net10.0\YogaMeditation.dll
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\bin\Debug\net10.0\YogaMeditation.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.dll
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\refint\YogaMeditation.dll
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\YogaMeditation.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\PracticeM1\YogaMeditation\obj\Debug\net10.0\ref\YogaMeditation.dll

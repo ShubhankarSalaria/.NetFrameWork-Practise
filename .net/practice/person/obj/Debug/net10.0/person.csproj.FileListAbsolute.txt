@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\practice\person\bin\Debug\net10.0\person.exe
+d:\capgemini\lpuEx\.net\practice\person\bin\Debug\net10.0\person.deps.json
+d:\capgemini\lpuEx\.net\practice\person\bin\Debug\net10.0\person.runtimeconfig.json
+d:\capgemini\lpuEx\.net\practice\person\bin\Debug\net10.0\person.dll
+d:\capgemini\lpuEx\.net\practice\person\bin\Debug\net10.0\person.pdb
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.sourcelink.json
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.dll
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\refint\person.dll
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.pdb
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\person.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\practice\person\obj\Debug\net10.0\ref\person.dll

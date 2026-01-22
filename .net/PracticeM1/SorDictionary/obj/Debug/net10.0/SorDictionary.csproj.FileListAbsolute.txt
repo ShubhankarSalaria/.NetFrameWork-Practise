@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.sourcelink.json
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\bin\Debug\net10.0\SorDictionary.exe
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\bin\Debug\net10.0\SorDictionary.deps.json
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\bin\Debug\net10.0\SorDictionary.runtimeconfig.json
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\bin\Debug\net10.0\SorDictionary.dll
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\bin\Debug\net10.0\SorDictionary.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.dll
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\refint\SorDictionary.dll
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\SorDictionary.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\PracticeM1\SorDictionary\obj\Debug\net10.0\ref\SorDictionary.dll

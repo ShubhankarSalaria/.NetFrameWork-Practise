@@ -1,0 +1,12 @@
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\bin\Debug\net10.0\loginlib.deps.json
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\bin\Debug\net10.0\loginlib.dll
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\bin\Debug\net10.0\loginlib.pdb
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.sourcelink.json
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.dll
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\refint\loginlib.dll
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\loginlib.pdb
+d:\capgemini\lpuEx\.net\day_5\class_library_calling\loginlib\obj\Debug\net10.0\ref\loginlib.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="loginlib/loginlib.csproj" />
+  <Project Path="MyApp/MyApp.csproj" />
+  <Project Path="MyLibrary/MyLibrary.csproj" />
+  <Project Path="MyLibrary2/MyLibrary2.csproj" />
+</Solution>

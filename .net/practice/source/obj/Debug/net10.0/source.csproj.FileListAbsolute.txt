@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.sourcelink.json
+d:\capgemini\lpuEx\.net\practice\source\bin\Debug\net10.0\source.exe
+d:\capgemini\lpuEx\.net\practice\source\bin\Debug\net10.0\source.deps.json
+d:\capgemini\lpuEx\.net\practice\source\bin\Debug\net10.0\source.runtimeconfig.json
+d:\capgemini\lpuEx\.net\practice\source\bin\Debug\net10.0\source.dll
+d:\capgemini\lpuEx\.net\practice\source\bin\Debug\net10.0\source.pdb
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.dll
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\refint\source.dll
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.pdb
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\source.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\practice\source\obj\Debug\net10.0\ref\source.dll

@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.AssemblyInfo.cs
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.sourcelink.json
+d:\capgemini\lpuEx\newDay\enumProp\bin\Debug\net10.0\enumProp.exe
+d:\capgemini\lpuEx\newDay\enumProp\bin\Debug\net10.0\enumProp.deps.json
+d:\capgemini\lpuEx\newDay\enumProp\bin\Debug\net10.0\enumProp.runtimeconfig.json
+d:\capgemini\lpuEx\newDay\enumProp\bin\Debug\net10.0\enumProp.dll
+d:\capgemini\lpuEx\newDay\enumProp\bin\Debug\net10.0\enumProp.pdb
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.dll
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\refint\enumProp.dll
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.pdb
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\enumProp.genruntimeconfig.cache
+d:\capgemini\lpuEx\newDay\enumProp\obj\Debug\net10.0\ref\enumProp.dll

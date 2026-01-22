@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.sourcelink.json
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\bin\Debug\net10.0\UserAuthentication.exe
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\bin\Debug\net10.0\UserAuthentication.deps.json
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\bin\Debug\net10.0\UserAuthentication.runtimeconfig.json
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\bin\Debug\net10.0\UserAuthentication.dll
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\bin\Debug\net10.0\UserAuthentication.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.dll
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\refint\UserAuthentication.dll
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.pdb
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\UserAuthentication.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\PracticeM1\UserAuthentication\obj\Debug\net10.0\ref\UserAuthentication.dll
