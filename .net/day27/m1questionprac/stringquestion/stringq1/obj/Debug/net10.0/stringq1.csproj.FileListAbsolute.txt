@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.sourcelink.json
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\bin\Debug\net10.0\stringq1.exe
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\bin\Debug\net10.0\stringq1.deps.json
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\bin\Debug\net10.0\stringq1.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\bin\Debug\net10.0\stringq1.dll
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\bin\Debug\net10.0\stringq1.pdb
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.dll
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\refint\stringq1.dll
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.pdb
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\stringq1.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day24\m1questionprac\stringquestion\stringq1\obj\Debug\net10.0\ref\stringq1.dll
