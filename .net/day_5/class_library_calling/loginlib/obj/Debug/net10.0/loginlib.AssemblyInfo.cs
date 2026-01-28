@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("loginlib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2adca1d9664dea584b471851fedbd9fadee318c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e49f4f0791927a6cfabe934b6786448bb4cf4e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("loginlib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("loginlib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
