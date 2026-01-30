@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.sourcelink.json
+d:\capgemini\lpuEx\.net\day29\student2\bin\Debug\net10.0\student2.exe
+d:\capgemini\lpuEx\.net\day29\student2\bin\Debug\net10.0\student2.deps.json
+d:\capgemini\lpuEx\.net\day29\student2\bin\Debug\net10.0\student2.runtimeconfig.json
+d:\capgemini\lpuEx\.net\day29\student2\bin\Debug\net10.0\student2.dll
+d:\capgemini\lpuEx\.net\day29\student2\bin\Debug\net10.0\student2.pdb
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.dll
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\refint\student2.dll
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.pdb
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\student2.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\day29\student2\obj\Debug\net10.0\ref\student2.dll
