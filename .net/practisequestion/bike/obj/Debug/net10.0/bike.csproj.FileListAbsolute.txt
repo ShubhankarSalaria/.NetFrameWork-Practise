@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.sourcelink.json
+d:\capgemini\lpuEx\.net\practisequestion\bike\bin\Debug\net10.0\bike.exe
+d:\capgemini\lpuEx\.net\practisequestion\bike\bin\Debug\net10.0\bike.deps.json
+d:\capgemini\lpuEx\.net\practisequestion\bike\bin\Debug\net10.0\bike.runtimeconfig.json
+d:\capgemini\lpuEx\.net\practisequestion\bike\bin\Debug\net10.0\bike.dll
+d:\capgemini\lpuEx\.net\practisequestion\bike\bin\Debug\net10.0\bike.pdb
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.dll
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\refint\bike.dll
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.pdb
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\bike.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\practisequestion\bike\obj\Debug\net10.0\ref\bike.dll
