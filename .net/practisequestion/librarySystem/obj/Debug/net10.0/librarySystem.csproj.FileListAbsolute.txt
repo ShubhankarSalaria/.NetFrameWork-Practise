@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.sourcelink.json
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\bin\Debug\net10.0\librarySystem.exe
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\bin\Debug\net10.0\librarySystem.deps.json
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\bin\Debug\net10.0\librarySystem.runtimeconfig.json
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\bin\Debug\net10.0\librarySystem.dll
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\bin\Debug\net10.0\librarySystem.pdb
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.dll
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\refint\librarySystem.dll
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.pdb
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\librarySystem.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\practisequestion\librarySystem\obj\Debug\net10.0\ref\librarySystem.dll
