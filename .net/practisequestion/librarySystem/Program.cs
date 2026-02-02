@@ -4,34 +4,34 @@ using System.Security.Cryptography.X509Certificates;
 public class Book
 {
     public int Id {get; set;}
-    public string Title {get; set;}
-    public string Author {get; set;}
-    public string Genre {get; set;}
+    public string ?Title {get; set;}
+    public string ?Author {get; set;}
+    public string ?Genre {get; set;}
     public int PublicationYear {get; set;}
 }
 
 public class LibraryUtility
 {
-    private SortedDictionary<int , Book>books = new SortedDictionary<int, Book>();
-    private int bookId = 1;
+    private SortedDictionary<int , Book>_books = new SortedDictionary<int, Book>();
+    private int _bookId = 1;
     public void AddBook(string title , string author , string genre , int year)
     {
         Book book = new Book()
         {
-           Id =bookId,
+           Id =_bookId,
           Title =title,
           Author=author,
           Genre=genre,
           PublicationYear=year
         };
-        books.Add(bookId,book);
-        bookId++;
+        _books.Add(_bookId,book);
+        _bookId++;
     }
 
     public SortedDictionary<string , List<Book>> GroupBooksByGenre()
     {
         SortedDictionary<string,List<Book>> result = new SortedDictionary<string, List<Book>>();
-        foreach(var val in books.Values)
+        foreach(var val in _books.Values)
         {
             if (!result.ContainsKey(val.Genre))
             {
@@ -46,7 +46,7 @@ public class LibraryUtility
     public List<Book> GetBooksByAuthor(string author)
     {
         List<Book>AuthBook = new List<Book>();
-        foreach( var book in books.Values)
+        foreach( var book in _books.Values)
         {
             if (book.Author.ToLower() == author)
             {
@@ -58,7 +58,7 @@ public class LibraryUtility
 
     public int GetTotalBooksCount()
     {
-        return books.Count;
+        return _books.Count;
     }
 }
     public class Program
