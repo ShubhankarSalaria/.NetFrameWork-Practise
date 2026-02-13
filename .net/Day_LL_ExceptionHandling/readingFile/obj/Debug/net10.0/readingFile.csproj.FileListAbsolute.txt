@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\bin\Debug\net10.0\readingFile.exe
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\bin\Debug\net10.0\readingFile.deps.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\bin\Debug\net10.0\readingFile.runtimeconfig.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\bin\Debug\net10.0\readingFile.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\bin\Debug\net10.0\readingFile.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.sourcelink.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\refint\readingFile.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\readingFile.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\readingFile\obj\Debug\net10.0\ref\readingFile.dll

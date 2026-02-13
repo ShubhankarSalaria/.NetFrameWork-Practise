@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\bin\Debug\net10.0\CustomException.exe
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\bin\Debug\net10.0\CustomException.deps.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\bin\Debug\net10.0\CustomException.runtimeconfig.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\bin\Debug\net10.0\CustomException.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\bin\Debug\net10.0\CustomException.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.sourcelink.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\refint\CustomException.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\CustomException.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\CustomException\obj\Debug\net10.0\ref\CustomException.dll

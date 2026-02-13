@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj": {}
+    "d:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj": {}
   },
   "projects": {
-    "D:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj": {
+    "d:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj",
+        "projectUniqueName": "d:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj",
         "projectName": "flipkey",
-        "projectPath": "D:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj",
+        "projectPath": "d:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\flipkey.csproj",
         "packagesPath": "C:\\Users\\shiva\\.nuget\\packages\\",
-        "outputPath": "D:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\obj\\",
+        "outputPath": "d:\\capgemini\\lpuEx\\.net\\practiseM1(4 question)\\flipkey\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

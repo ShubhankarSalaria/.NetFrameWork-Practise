@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\bin\Debug\net10.0\TicketBooking.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\bin\Debug\net10.0\TicketBooking.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\bin\Debug\net10.0\TicketBooking.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\bin\Debug\net10.0\TicketBooking.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\bin\Debug\net10.0\TicketBooking.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\refint\TicketBooking.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\TicketBooking.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\TicketBooking\obj\Debug\net10.0\ref\TicketBooking.dll

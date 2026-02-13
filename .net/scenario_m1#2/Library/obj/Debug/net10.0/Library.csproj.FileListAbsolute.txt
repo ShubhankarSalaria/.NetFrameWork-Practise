@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\bin\Debug\net10.0\Library.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\bin\Debug\net10.0\Library.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\bin\Debug\net10.0\Library.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\bin\Debug\net10.0\Library.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\bin\Debug\net10.0\Library.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\refint\Library.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\Library.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\Library\obj\Debug\net10.0\ref\Library.dll

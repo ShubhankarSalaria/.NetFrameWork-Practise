@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\bin\Debug\net10.0\Employee.exe
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\bin\Debug\net10.0\Employee.deps.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\bin\Debug\net10.0\Employee.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\bin\Debug\net10.0\Employee.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.sourcelink.json
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\refint\Employee.dll
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.pdb
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\Day_LL_ExceptionHandling\Employee\obj\Debug\net10.0\ref\Employee.dll

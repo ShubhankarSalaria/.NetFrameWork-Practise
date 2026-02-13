@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\bin\Debug\net10.0\ValidEmail.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\bin\Debug\net10.0\ValidEmail.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\bin\Debug\net10.0\ValidEmail.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\bin\Debug\net10.0\ValidEmail.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\bin\Debug\net10.0\ValidEmail.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\refint\ValidEmail.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ValidEmail.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\ValidEmail\obj\Debug\net10.0\ref\ValidEmail.dll

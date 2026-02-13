@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\bin\Debug\net10.0\Input.exe
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\bin\Debug\net10.0\Input.deps.json
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\bin\Debug\net10.0\Input.runtimeconfig.json
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\bin\Debug\net10.0\Input.dll
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\bin\Debug\net10.0\Input.pdb
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.sourcelink.json
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.dll
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\refint\Input.dll
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.pdb
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\Input.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\m1practicequestion\Input\obj\Debug\net10.0\ref\Input.dll

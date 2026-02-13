@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\bin\Debug\net10.0\invoiceGenrator.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\bin\Debug\net10.0\invoiceGenrator.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\bin\Debug\net10.0\invoiceGenrator.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\bin\Debug\net10.0\invoiceGenrator.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\bin\Debug\net10.0\invoiceGenrator.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\refint\invoiceGenrator.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\invoiceGenrator.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\invoiceGenrator\obj\Debug\net10.0\ref\invoiceGenrator.dll

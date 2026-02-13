@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ecomerce_discount/1.0.0": {
+        "runtime": {
+          "ecomerce_discount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ecomerce_discount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

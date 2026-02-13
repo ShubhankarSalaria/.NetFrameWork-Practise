@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\bin\Debug\net10.0\EmailCleaner.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\bin\Debug\net10.0\EmailCleaner.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\bin\Debug\net10.0\EmailCleaner.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\bin\Debug\net10.0\EmailCleaner.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\bin\Debug\net10.0\EmailCleaner.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\refint\EmailCleaner.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\EmailCleaner.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\EmailCleaner\obj\Debug\net10.0\ref\EmailCleaner.dll

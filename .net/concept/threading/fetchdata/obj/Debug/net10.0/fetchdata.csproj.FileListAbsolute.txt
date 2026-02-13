@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\bin\Debug\net10.0\fetchdata.exe
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\bin\Debug\net10.0\fetchdata.deps.json
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\bin\Debug\net10.0\fetchdata.runtimeconfig.json
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\bin\Debug\net10.0\fetchdata.dll
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\bin\Debug\net10.0\fetchdata.pdb
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.sourcelink.json
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.dll
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\refint\fetchdata.dll
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.pdb
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\fetchdata.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\concept\threading\fetchdata\obj\Debug\net10.0\ref\fetchdata.dll

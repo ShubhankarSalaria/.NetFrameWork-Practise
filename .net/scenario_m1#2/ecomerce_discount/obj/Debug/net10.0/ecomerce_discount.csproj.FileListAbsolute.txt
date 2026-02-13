@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\bin\Debug\net10.0\ecomerce_discount.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\bin\Debug\net10.0\ecomerce_discount.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\bin\Debug\net10.0\ecomerce_discount.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\bin\Debug\net10.0\ecomerce_discount.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\bin\Debug\net10.0\ecomerce_discount.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\refint\ecomerce_discount.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ecomerce_discount.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\ecomerce_discount\obj\Debug\net10.0\ref\ecomerce_discount.dll

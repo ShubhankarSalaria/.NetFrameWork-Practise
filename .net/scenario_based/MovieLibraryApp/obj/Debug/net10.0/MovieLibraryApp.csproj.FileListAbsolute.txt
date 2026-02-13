@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.exe
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.deps.json
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.dll
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.pdb
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.dll
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\refint\MovieLibraryApp.dll
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.pdb
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_based\MovieLibraryApp\obj\Debug\net10.0\ref\MovieLibraryApp.dll

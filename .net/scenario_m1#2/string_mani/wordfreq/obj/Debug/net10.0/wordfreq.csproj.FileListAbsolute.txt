@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.sourcelink.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\bin\Debug\net10.0\wordfreq.exe
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\bin\Debug\net10.0\wordfreq.deps.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\bin\Debug\net10.0\wordfreq.runtimeconfig.json
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\bin\Debug\net10.0\wordfreq.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\bin\Debug\net10.0\wordfreq.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\refint\wordfreq.dll
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.pdb
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\wordfreq.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\scenario_m1#2\string_mani\wordfreq\obj\Debug\net10.0\ref\wordfreq.dll
