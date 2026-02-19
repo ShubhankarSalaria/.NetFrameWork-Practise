@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\bin\Debug\net10.0\genericlist.exe
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\bin\Debug\net10.0\genericlist.deps.json
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\bin\Debug\net10.0\genericlist.runtimeconfig.json
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\bin\Debug\net10.0\genericlist.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\bin\Debug\net10.0\genericlist.pdb
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.sourcelink.json
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\refint\genericlist.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.pdb
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\genericlist.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericlist\obj\Debug\net10.0\ref\genericlist.dll

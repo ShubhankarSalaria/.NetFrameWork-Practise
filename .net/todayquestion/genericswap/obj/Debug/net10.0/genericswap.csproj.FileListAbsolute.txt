@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\bin\Debug\net10.0\genericswap.exe
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\bin\Debug\net10.0\genericswap.deps.json
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\bin\Debug\net10.0\genericswap.runtimeconfig.json
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\bin\Debug\net10.0\genericswap.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\bin\Debug\net10.0\genericswap.pdb
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.sourcelink.json
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\refint\genericswap.dll
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.pdb
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\genericswap.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\todayquestion\genericswap\obj\Debug\net10.0\ref\genericswap.dll

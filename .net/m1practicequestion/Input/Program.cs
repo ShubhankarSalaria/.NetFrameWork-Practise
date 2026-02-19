@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.ComponentModel;
+using System.Text;
 using System.Text.RegularExpressions;
 
 public class Program
@@ -110,10 +111,20 @@ public class Program
 
         // question 15 
         string q15 = "(123)";
+        int a15;
+        if (q15.EndsWith("(") && q15.StartsWith(")"))
+        {
+            q15.Trim('(',')');
+            if(!int.TryParse(q15,out a15))
+            {
+                Console.WriteLine("Invalid");
+            }
+        }
+
         int a15 = -int.Parse(q15.Trim('(', ')'));
         Console.WriteLine("Negative number : " + a15);
-
-
+        StringBuilder sb = new StringBuilder();
+        
         // question 16 
         string q16 = "12:30";
         string[] time = q16.Split(':');

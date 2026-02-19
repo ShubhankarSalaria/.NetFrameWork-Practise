@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "bookstoreapplication/1.0.0": {
+        "runtime": {
+          "bookstoreapplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bookstoreapplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

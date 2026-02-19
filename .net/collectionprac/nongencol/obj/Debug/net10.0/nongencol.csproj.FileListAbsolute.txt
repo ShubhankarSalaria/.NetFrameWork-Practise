@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\bin\Debug\net10.0\nongencol.exe
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\bin\Debug\net10.0\nongencol.deps.json
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\bin\Debug\net10.0\nongencol.runtimeconfig.json
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\bin\Debug\net10.0\nongencol.dll
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\bin\Debug\net10.0\nongencol.pdb
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.sourcelink.json
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.dll
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\refint\nongencol.dll
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.pdb
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\nongencol.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\collectionprac\nongencol\obj\Debug\net10.0\ref\nongencol.dll

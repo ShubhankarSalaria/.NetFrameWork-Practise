@@ -1,0 +1,15 @@
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.GeneratedMSBuildEditorConfig.editorconfig
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.AssemblyInfoInputs.cache
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.AssemblyInfo.cs
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.csproj.CoreCompileInputs.cache
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.sourcelink.json
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\bin\Debug\net10.0\bookstoreapplication.exe
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\bin\Debug\net10.0\bookstoreapplication.deps.json
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\bin\Debug\net10.0\bookstoreapplication.runtimeconfig.json
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\bin\Debug\net10.0\bookstoreapplication.dll
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\bin\Debug\net10.0\bookstoreapplication.pdb
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.dll
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\refint\bookstoreapplication.dll
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.pdb
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\bookstoreapplication.genruntimeconfig.cache
+d:\capgemini\lpuEx\.net\questiontoprac\bookstoreapplication\obj\Debug\net10.0\ref\bookstoreapplication.dll

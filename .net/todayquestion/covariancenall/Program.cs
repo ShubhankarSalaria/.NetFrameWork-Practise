@@ -1,0 +1,67 @@
+﻿using System;
+
+public class Animal 
+{ 
+    public string Name = "Animal"; 
+}
+
+public class Dog : Animal 
+{ 
+    public Dog() 
+    { 
+        Name = "Dog"; 
+    } 
+}
+
+// Covariant (Producer → gives T)
+public interface IProducer<out T>
+{
+    T Produce();
+}
+
+// Contravariant (Consumer → takes T)
+public interface IConsumer<in T>
+{
+    void Consume(T item);
+}
+
+public class DogProducer : IProducer<Dog>
+{
+    public Dog Produce() => new Dog();
+}
+
+public class AnimalConsumer : IConsumer<Animal>
+{
+    public void Consume(Animal item)
+    {
+        Console.WriteLine($"Consumed: {item.Name}");
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        // Covariance: Dog → Animal
+        IProducer<Animal> p = new DogProducer();
+
+        // Contravariance: AnimalConsumer can consume Dog
+        IConsumer<Dog> c = new AnimalConsumer();
+
+        Use(p, c);
+    }
+
+    public static void Use(IProducer<Animal> producer, IConsumer<Dog> consumer)
+    {
+        Animal animal = producer.Produce();
+
+        if (animal is Dog dog)
+        {
+            consumer.Consume(dog);
+        }
+        else
+        {
+            Console.WriteLine("Produced animal is not a Dog.");
+        }
+    }
+}
